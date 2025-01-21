@@ -1,0 +1,134 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+/* Container */
+
+.container {
+  width: 100%;
+  max-width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: var(--container-horizontal-spacing);
+  padding-left: var(--container-horizontal-spacing);
+}
+
+@media (min-width: 396px) {
+  .container {
+      max-width: 396px;
+  }
+}
+
+@media (min-width: 576px) {
+  .container {
+      max-width: 576px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+      max-width: 768px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .container {
+      max-width: 1024px;
+  }
+}
+
+
+/* Collection */
+
+.Collection__Toolbar {
+  display: flex;
+  align-items: center;
+  margin: 1rem 0;
+  border: 1px solid lightgrey;
+}
+
+.Collection__ToolbarItem {
+  width: 100%;
+  padding: 1rem 3rem;
+  cursor: pointer;
+}
+
+.Collection__ToolbarItem + .Collection__ToolbarItem {
+  border-left: 1px solid lightgrey;
+}
+
+@media (min-width: 576px) {
+  .Collection__ToolbarItem {
+    width: fit-content;
+  }
+  .Collection__ToolbarItem:first-of-type {
+    border-left: 1px solid lightgrey;
+  }
+  .Collection__Toolbar {
+    justify-content: end;
+  }
+}
+
+.Collection__Products {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(120px, 1fr));
+  grid-gap: 1.5rem;
+  padding: 1rem;
+}
+
+.ProductItem__Image {
+  background-color: #EEEEEE;
+  padding: 1rem;
+}
+
+.ProductItem__Content {
+  padding: 0.75rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+@media (min-width: 768px) {
+  .Collection__Products {
+    grid-template-columns: repeat(3, minmax(120px, 1fr));
+  }
+}
+
+@media (min-width: 1024px) {
+  .Collection__Products {
+    grid-template-columns: repeat(4, minmax(120px, 1fr));
+  }
+}
+
+
+/* Image Aspect Ratio */
+
+.AspectRatio {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.AspectRatio:before {
+  content: "";
+  display: block;
+  padding-bottom: 100%;
+}
+
+.AspectRatio > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  -o-object-fit: contain;
+  object-fit: contain;
+  max-height: 100%;
+  max-width: 100%;
+}
