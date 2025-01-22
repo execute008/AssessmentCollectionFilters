@@ -1,10 +1,20 @@
 html {
   font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
 }
 
 body {
   margin: 0;
   padding: 0;
+}
+
+button {
+  appearance: none;
+  border: none;
+  cursor: pointer;
+  font-size: inherit;
+  color: inherit;
+  background: unset;
 }
 
 
@@ -56,7 +66,29 @@ body {
 .Collection__ToolbarItem {
   width: 100%;
   padding: 1rem 3rem;
-  cursor: pointer;
+  position: relative;
+}
+
+.Collection__ToolbarItem:hover::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.03);
+  z-index: 1;
+}
+
+.Collection__ToolbarItem:active::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.05);
+  z-index: 1;
 }
 
 .Collection__ToolbarItem + .Collection__ToolbarItem {
@@ -82,13 +114,43 @@ body {
   padding: 1rem;
 }
 
+
+/* Product Item */
+
+.ProductItem {
+  cursor: pointer;
+  position: relative;
+}
+
+.ProductItem:hover::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.03);
+  z-index: 1;
+}
+
+.ProductItem:active::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.05);
+  z-index: 1;
+}
+
 .ProductItem__Image {
   background-color: #EEEEEE;
   padding: 1rem;
 }
 
 .ProductItem__Content {
-  padding: 0.75rem 0;
+  padding: 0.75rem 0.5rem;
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
