@@ -6,7 +6,7 @@ In diesem Repository findest du alle Infos, die du dafür brauchst. Die Aufgabe 
 
 ## Problembeschreibung
 
-In unserem Shop unter [vitamoment.de](vitamoment.de) soll eine neue Filter-Funktion für Collection-Pages entworfen und umgesetzt werden.
+In unserem Shop unter [vitamoment.de](https://vitamoment.de) soll eine neue Filter-Funktion für Collection-Pages entworfen und umgesetzt werden.
 
 <img src="./Screen_Collection_Page.png" alt="Screenshot unserer Collection Page" width="320"/>
 
