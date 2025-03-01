@@ -1,0 +1,1456 @@
+{
+  "id": "495945515275",
+  "title": "Bestseller",
+  "handle": "bestseller",
+  "description": "",
+  "products_count": {
+    "count": 79
+  },
+  "products": [
+    {
+      "id": "13088302475",
+      "title": "Magnesiumcitrat",
+      "handle": "magnesiumcitrat",
+      "description": "Eine mangelnde Versorgung des Mineralstoffs Magnesium kann spürbare Konsequenzen wie Muskelkrämpfe, Abgeschlagenheit oder Energielosigkeit haben. Vor allem Jugendliche, ältere Personengruppen, Sportler, Schwangere, gestresste Menschen, Diabetes-Patienten, Bluthochdruck-Betroffene und Personen mit chronisch entzündlichen Erkrankungen haben oft einen Mehrbedarf an Magnesium und schaffen es selten, diesen über die Ernährung auszugleichen. Herkömmliche Magnesiumprodukte, wie klassische Brausetabletten aus dem Discounter, sind hierfür keine Lösung. Magnesiumtabletten stammen oftmals aus minderwertigen Quellen, enthalten Zusatzstoffe und werden vom Körper schlecht absorbiert. Das VitaMoment Magnesiumcitrat-Pulver löst sich direkt in Wasser oder Tee auf und lässt sich durch einen natürlichen, zitronigen Geschmack sehr angenehm im Alltag trinken und flexibel dosieren. Das Produkt ist frei von Gluten, Laktose, Soja, Nüssen & Ei. Außerdem verzichten wir in unserem Citrat aus reinem Magnesium auf Zucker, Konservierungs- & Farbstoffe und künstliche Geschmacksstoffe. Somit können auch Allergikerinnen und Allergiker mit unserem Nahrungsergänzungsmittel ihre tägliche Magnesiumzufuhr bestens unterstützen.",
+      "has_only_default_variant": true,
+      "created_at": "2017-10-23T09:38:58Z",
+      "gift_card?": false,
+      "available": true,
+      "tags": [
+        "Ernährungsweise_Vegan",
+        "Ernährungsweise_Vegetarisch",
+        "Filter",
+        "Verträglichkeiten_Glutenfrei",
+        "Verträglichkeiten_Laktosefrei",
+        "Verträglichkeiten_Sojafrei"
+      ],
+      "price": 1597,
+      "price_min": 1597,
+      "price_max": 1597,
+      "price_varies": false,
+      "featured_image": {
+        "alt": "",
+        "src": "https://cdn.shopify.com/s/files/1/2236/3245/products/daily-you-magnesium_default.png?v=1686895986",
+        "width": 1261,
+        "height": 2048
+      },
+      "variants": [
+        {
+          "id": "32737517305933",
+          "title": "Default Title",
+          "price": 1597,
+          "compare_at_price": null,
+          "sku": "451",
+          "available": true,
+          "inventory_quantity": 285509
+        }
+      ]
+    },
+    {
+      "id": "3745982808141",
+      "title": "Daily Protein Shake",
+      "handle": "daily-protein",
+      "description": "Proteine sind lebensnotwendig für den menschlichen Körper. Dein Immunsystem, deine Muskelkraftwerke, Haut, Haare & Nägel [reference text=\"benötigen\" title=\"Deutsche Gesellschaft für Ernährung (2023): Ausgewählte Fragen und Antworten zu Protein und unentbehrlichen Aminosäuren \" source=\"https://www.dge.de/gesunde-ernaehrung/faq/ausgewaehlte-fragen-und-antworten-zu-protein-und-unentbehrlichen-aminosaeuren/#c3501\" ] ausreichend Eiweiß. Außerdem trägt es zu einer guten Sättigung bei. Bei VitaMoment findest du eine Auswahl an sorgfältig kreierten Eiweiß-Shakes, welche dir helfen deine tägliche Eiweißzufuhr auf natürliche Weise zu unterstützen. Unser Proteinpulver zeichnet sich durch eine variable Einsatzfähigkeit und beste norddeutsche Rohstoffe aus. Mit knapp über 100 kcal pro Portion ist das Mehrkomponenten-Protein ein schmackhafter und gesunder Helfer für deinen Alltag. Das hochwertige Molkenprotein-Konzentrat und das Molkenisolat sorgen für eine schnelle Proteinversorgung, das enthaltene Casein gewährleistet eine kontinuierliche Grundzufuhr essentieller Aminosäuren. Somit wird dein Körper rund um die Uhr mit bestem Eiweiß versorgt. Da der Rohstoff des Proteinpulvers Milch ist, sollte das Produkt bei einer Laktoseintoleranz oder bei einer Milcheiweißallergie nicht verzehrt werden.",
+      "has_only_default_variant": false,
+      "created_at": "2019-08-27T11:29:19Z",
+      "gift_card?": false,
+      "available": true,
+      "tags": [
+        "_wf_cus",
+        "Eigenschaften_Eiweißreich",
+        "Eigenschaften_Fettarm",
+        "Eigenschaften_Wenig Zucker",
+        "Ernährungsweise_Vegetarisch",
+        "Filter",
+        "Free_Shaker",
+        "Verträglichkeiten_Glutenfrei",
+        "Verträglichkeiten_Sojafrei"
+      ],
+      "price": 249,
+      "price_min": 249,
+      "price_max": 5297,
+      "price_varies": true,
+      "featured_image": {
+        "alt": "",
+        "src": "https://cdn.shopify.com/s/files/1/2236/3245/files/daily-protein_winter-orange-500g_default.png?v=1730473316",
+        "width": 1098,
+        "height": 2048
+      },
+      "variants": [
+        {
+          "id": "29169979686989",
+          "title": "Vanille / 500g",
+          "price": 2697,
+          "compare_at_price": null,
+          "sku": "432",
+          "available": true,
+          "inventory_quantity": 7862
+        },
+        {
+          "id": "40444640985262",
+          "title": "Vanille / 30g (Probe)",
+          "price": 249,
+          "compare_at_price": null,
+          "sku": "252",
+          "available": true,
+          "inventory_quantity": 18805
+        },
+        {
+          "id": "41691719925934",
+          "title": "Vanille / 1250g",
+          "price": 5297,
+          "compare_at_price": 6743,
+          "sku": "274",
+          "available": true,
+          "inventory_quantity": 422
+        },
+        {
+          "id": "45685821440267",
+          "title": "Pistazie / 500g",
+          "price": 2697,
+          "compare_at_price": null,
+          "sku": "575",
+          "available": true,
+          "inventory_quantity": 2030
+        },
+        {
+          "id": "29169954455629",
+          "title": "Schoko / 500g",
+          "price": 2697,
+          "compare_at_price": null,
+          "sku": "431",
+          "available": true,
+          "inventory_quantity": 2716
+        },
+        {
+          "id": "40444630761646",
+          "title": "Schoko / 30g (Probe)",
+          "price": 249,
+          "compare_at_price": null,
+          "sku": "251",
+          "available": true,
+          "inventory_quantity": 21230
+        },
+        {
+          "id": "41691719893166",
+          "title": "Schoko / 1250g",
+          "price": 5297,
+          "compare_at_price": 6743,
+          "sku": "273",
+          "available": true,
+          "inventory_quantity": 503
+        },
+        {
+          "id": "29169979719757",
+          "title": "Erdbeer / 500g",
+          "price": 2697,
+          "compare_at_price": null,
+          "sku": "433",
+          "available": true,
+          "inventory_quantity": 425
+        },
+        {
+          "id": "40444644458670",
+          "title": "Erdbeer / 30g (Probe)",
+          "price": 249,
+          "compare_at_price": null,
+          "sku": "253",
+          "available": true,
+          "inventory_quantity": 18794
+        },
+        {
+          "id": "41691719958702",
+          "title": "Erdbeer / 1250g",
+          "price": 5297,
+          "compare_at_price": 6743,
+          "sku": "275",
+          "available": true,
+          "inventory_quantity": 673
+        },
+        {
+          "id": "29169979752525",
+          "title": "Kokos-Mandel / 500g",
+          "price": 2697,
+          "compare_at_price": null,
+          "sku": "434",
+          "available": true,
+          "inventory_quantity": 2612
+        },
+        {
+          "id": "40444646031534",
+          "title": "Kokos-Mandel / 30g (Probe)",
+          "price": 249,
+          "compare_at_price": null,
+          "sku": "254",
+          "available": true,
+          "inventory_quantity": 20522
+        },
+        {
+          "id": "41691719991470",
+          "title": "Kokos-Mandel / 1250g",
+          "price": 5297,
+          "compare_at_price": 6743,
+          "sku": "276",
+          "available": true,
+          "inventory_quantity": 525
+        },
+        {
+          "id": "29169979785293",
+          "title": "Himbeer / 500g",
+          "price": 2697,
+          "compare_at_price": null,
+          "sku": "435",
+          "available": true,
+          "inventory_quantity": 1550
+        },
+        {
+          "id": "40444649603246",
+          "title": "Himbeer / 30g (Probe)",
+          "price": 249,
+          "compare_at_price": null,
+          "sku": "255",
+          "available": true,
+          "inventory_quantity": 19162
+        },
+        {
+          "id": "41691720024238",
+          "title": "Himbeer / 1250g",
+          "price": 5297,
+          "compare_at_price": 6743,
+          "sku": "277",
+          "available": true,
+          "inventory_quantity": 867
+        },
+        {
+          "id": "29169979818061",
+          "title": "Salted-Caramel-Cookie / 500g",
+          "price": 2697,
+          "compare_at_price": null,
+          "sku": "436",
+          "available": true,
+          "inventory_quantity": 2492
+        },
+        {
+          "id": "40444650782894",
+          "title": "Salted-Caramel-Cookie / 30g (Probe)",
+          "price": 249,
+          "compare_at_price": null,
+          "sku": "256",
+          "available": true,
+          "inventory_quantity": 20041
+        },
+        {
+          "id": "41691720057006",
+          "title": "Salted-Caramel-Cookie / 1250g",
+          "price": 5297,
+          "compare_at_price": 6743,
+          "sku": "278",
+          "available": true,
+          "inventory_quantity": 773
+        },
+        {
+          "id": "29169979850829",
+          "title": "Kaffee-Karamell / 500g",
+          "price": 2697,
+          "compare_at_price": null,
+          "sku": "437",
+          "available": true,
+          "inventory_quantity": 1292
+        },
+        {
+          "id": "40444651995310",
+          "title": "Kaffee-Karamell / 30g (Probe)",
+          "price": 249,
+          "compare_at_price": null,
+          "sku": "257",
+          "available": true,
+          "inventory_quantity": 22028
+        },
+        {
+          "id": "41691720089774",
+          "title": "Kaffee-Karamell / 1250g",
+          "price": 5297,
+          "compare_at_price": 6743,
+          "sku": "279",
+          "available": true,
+          "inventory_quantity": 1041
+        },
+        {
+          "id": "29169979949133",
+          "title": "Neutral / 500g",
+          "price": 2697,
+          "compare_at_price": null,
+          "sku": "439",
+          "available": true,
+          "inventory_quantity": 120
+        },
+        {
+          "id": "40444653076654",
+          "title": "Neutral / 30g (Probe)",
+          "price": 249,
+          "compare_at_price": null,
+          "sku": "259",
+          "available": true,
+          "inventory_quantity": 19968
+        },
+        {
+          "id": "41691720122542",
+          "title": "Neutral / 1250g",
+          "price": 5297,
+          "compare_at_price": 6743,
+          "sku": "283",
+          "available": true,
+          "inventory_quantity": 162
+        },
+        {
+          "id": "29169980014669",
+          "title": "Mango-Maracuja / 500g",
+          "price": 2697,
+          "compare_at_price": null,
+          "sku": "470",
+          "available": true,
+          "inventory_quantity": 1985
+        },
+        {
+          "id": "40444654747822",
+          "title": "Mango-Maracuja / 30g (Probe)",
+          "price": 249,
+          "compare_at_price": null,
+          "sku": "260",
+          "available": true,
+          "inventory_quantity": 22522
+        },
+        {
+          "id": "41691720155310",
+          "title": "Mango-Maracuja / 1250g",
+          "price": 5297,
+          "compare_at_price": 6743,
+          "sku": "280",
+          "available": true,
+          "inventory_quantity": 775
+        },
+        {
+          "id": "29169980080205",
+          "title": "Schoko-Erdnuss / 500g",
+          "price": 2697,
+          "compare_at_price": null,
+          "sku": "471",
+          "available": true,
+          "inventory_quantity": 1433
+        },
+        {
+          "id": "40444655141038",
+          "title": "Schoko-Erdnuss / 30g (Probe)",
+          "price": 249,
+          "compare_at_price": null,
+          "sku": "261",
+          "available": true,
+          "inventory_quantity": 20723
+        },
+        {
+          "id": "41691720188078",
+          "title": "Schoko-Erdnuss / 1250g",
+          "price": 5297,
+          "compare_at_price": 6743,
+          "sku": "281",
+          "available": true,
+          "inventory_quantity": 1047
+        },
+        {
+          "id": "32264838742093",
+          "title": "Banane / 500g",
+          "price": 2697,
+          "compare_at_price": null,
+          "sku": "474",
+          "available": true,
+          "inventory_quantity": 3528
+        },
+        {
+          "id": "40444655829166",
+          "title": "Banane / 30g (Probe)",
+          "price": 249,
+          "compare_at_price": null,
+          "sku": "262",
+          "available": true,
+          "inventory_quantity": 17980
+        },
+        {
+          "id": "41691720220846",
+          "title": "Banane / 1250g",
+          "price": 5297,
+          "compare_at_price": 6743,
+          "sku": "282",
+          "available": true,
+          "inventory_quantity": 605
+        },
+        {
+          "id": "44202274652427",
+          "title": "Schoko-Haselnuss / 500g",
+          "price": 2697,
+          "compare_at_price": null,
+          "sku": "558",
+          "available": true,
+          "inventory_quantity": 3760
+        },
+        {
+          "id": "45506116256011",
+          "title": "Schoko-Haselnuss / 30g (Probe)",
+          "price": 249,
+          "compare_at_price": null,
+          "sku": "287",
+          "available": true,
+          "inventory_quantity": 27372
+        },
+        {
+          "id": "45506130280715",
+          "title": "Schoko-Haselnuss / 1250g",
+          "price": 5297,
+          "compare_at_price": 6743,
+          "sku": "586",
+          "available": true,
+          "inventory_quantity": 937
+        }
+      ]
+    },
+    {
+      "id": "2337400193101",
+      "title": "Omega 3",
+      "handle": "omega-3-kapseln",
+      "description": "Essentielle Omega-3-Fettsäuren sind von hoher Bedeutung, da der menschliche Körper sie nicht selbst herstellen kann. Bei der richtigen Tagesdosis von Omega 3 kommt es auf das Verhältnis zu Omega-6-Fettsäuren an. Empfehlenswert ist ein Verhältnis von 1:1 bis 1:5. Die meisten Menschen nehmen allerdings zu viel Omega 6 und zu wenig Omega 3 zu sich. Einfach und günstig kannst du eine ausreichende Versorgung von Omega-3-Fettsäuren mit einem hochwertigen Nahrungsergänzungsmittel aus einer vertrauenswürdigen Quelle sicherstellen. Mit unseren Omega-3-Fischöl-Kapseln bekommst du ein Fischöl aus nachhaltigem Wildfang in hoher Konzentration. In den Fischöl-Kapseln sind die Fettsäuren DHA und EPA enthalten. DHA trägt zur Erhaltung einer normalen Gehirnfunktion und Sehkraft bei - die positive Wirkung stellt sich bei einer täglichen Aufnahme von 250 mg DHA ein. EPA und DHA tragen zu einer normalen Herzfunktion bei - die positive Wirkung stellt sich bei einer täglichen Aufnahme von 250 mg EPA und DHA ein. DHA und EPA tragen ferner zur Aufrechterhaltung eines normalen Triglyceridspiegels im Blut bei - die positive Wirkung stellt sich bei einer täglichen Aufnahme von 2 g EPA und DHA ein. Eine tägliche Gesamtaufnahme von 5 g EPA und DHA kombiniert darf nicht überschritten werden. DHA und EPA tragen zudem zur Aufrechterhaltung eines normalen Blutdrucks bei - die positive Wirkung stellt sich bei einer täglichen Aufnahme von 3 g EPA und DHA ein. Eine tägliche Gesamtaufnahme von 5 g EPA und DHA kombiniert darf nicht überschritten werden. Unser Omega 3 aus Fischöl erreicht ideale TOTOX-Werte, die den Oxidierungswert und damit die Frische des Fischöls widerspiegeln.",
+      "has_only_default_variant": true,
+      "created_at": "2018-12-18T15:14:39Z",
+      "gift_card?": false,
+      "available": true,
+      "tags": [
+        "Filter",
+        "Verträglichkeiten_Glutenfrei",
+        "Verträglichkeiten_Laktosefrei",
+        "Verträglichkeiten_Sojafrei"
+      ],
+      "price": 3497,
+      "price_min": 3497,
+      "price_max": 3497,
+      "price_varies": false,
+      "featured_image": {
+        "alt": "",
+        "src": "https://cdn.shopify.com/s/files/1/2236/3245/files/omega-3-kapseln_default.png?v=1717582991",
+        "width": 1140,
+        "height": 2048
+      },
+      "variants": [
+        {
+          "id": "32737785708621",
+          "title": "Default Title",
+          "price": 3497,
+          "compare_at_price": null,
+          "sku": "457",
+          "available": true,
+          "inventory_quantity": 77819
+        }
+      ]
+    },
+    {
+      "id": "6585266176174",
+      "title": "Meno-Komplex",
+      "handle": "meno-komplex",
+      "description": "Die richtige Nährstoffkombination und der Einsatz gezielter, konzentrierter Pflanzensubstanzen können die Selbstregulierungsskräfte deines Körpers während der Wechseljahre aktiv unterstützen. In unserem gut durchdachten Meno-Komplex kombinieren wir hierfür abgestimmte Vitalstoffe wie Vitamin B6, Spurenelemente wie Eisen und bewährte Pflanzenextrakte aus der Naturheilkunde wie Mönchspfeffer und Schafgarbe.[health-claims]",
+      "has_only_default_variant": true,
+      "created_at": "2021-03-24T15:30:20Z",
+      "gift_card?": false,
+      "available": true,
+      "tags": [
+        "Ernährungsweise_Vegan",
+        "Ernährungsweise_Vegetarisch",
+        "Verträglichkeiten_Glutenfrei",
+        "Verträglichkeiten_Laktosefrei",
+        "Verträglichkeiten_Sojafrei"
+      ],
+      "price": 2997,
+      "price_min": 2997,
+      "price_max": 2997,
+      "price_varies": false,
+      "featured_image": {
+        "alt": "",
+        "src": "https://cdn.shopify.com/s/files/1/2236/3245/files/meno-komplex_default.png?v=1698929927",
+        "width": 1099,
+        "height": 2048
+      },
+      "variants": [
+        {
+          "id": "43936052150539",
+          "title": "Default Title",
+          "price": 2997,
+          "compare_at_price": null,
+          "sku": "702",
+          "available": true,
+          "inventory_quantity": 59441
+        }
+      ]
+    },
+    {
+      "id": "8227066839307",
+      "title": "Prosta-Komplex",
+      "handle": "prosta-komplex",
+      "description": "Mit zunehmendem Alter verändert sich der männliche Körper auf vielfältige Weise, was sowohl das allgemeine Wohlbefinden als auch die Vitalität beeinflussen kann. Diese natürlichen Veränderungen können eine Anpassung des Lebensstils erfordern, um weiterhin aktiv und ausgeglichen zu bleiben. Daneben kann eine ausgewogene Ernährung sowie die gezielte Unterstützung mit ausgewählten Nährstoffen dabei helfen, das persönliche Wohlbefinden in dieser Lebensphase zu fördern und altersbedingten Beschwerden und Erkrankungen vorzubeugen. Unser Prosta-Komplex ist optimal auf die Männergesundheit abgestimmt: Er enthält eine wirksame Kombination aus wichtigen Vitalstoffen sowie natürlichen Pflanzenextrakten, die als natürliche Hausmittel seit vielen Jahren sehr beliebt sind. Alle Dosierungen orientieren sich an offiziellen Empfehlungen und Richtlinien, um eine optimale Wirksamkeit zu erzielen und eine sichere Einnahme zu gewährleisten.",
+      "has_only_default_variant": true,
+      "created_at": "2023-04-21T11:55:49Z",
+      "gift_card?": false,
+      "available": true,
+      "tags": [],
+      "price": 2997,
+      "price_min": 2997,
+      "price_max": 2997,
+      "price_varies": false,
+      "featured_image": {
+        "alt": "",
+        "src": "https://cdn.shopify.com/s/files/1/2236/3245/files/prosta-komplex_default.png?v=1729244776",
+        "width": 1096,
+        "height": 2048
+      },
+      "variants": [
+        {
+          "id": "44660096663819",
+          "title": "Default Title",
+          "price": 2997,
+          "compare_at_price": null,
+          "sku": "727",
+          "available": true,
+          "inventory_quantity": 266691
+        }
+      ]
+    },
+    {
+      "id": "3441322131533",
+      "title": "Vitamin D3+K2",
+      "handle": "vitamin-d3-k2",
+      "description": "Hierzulande leiden [reference text=\"viele Menschen\" title=\"Robert-Koch-Institut (2019): Antworten des Robert Koch-Instituts auf häufig gestellte Fragen zu Vitamin D \" source=\"https://www.rki.de/SharedDocs/FAQ/Vitamin_D/Vitamin_D_FAQ-Liste.html\" ] unter einem starken Vitamin-D-Mangel. Diese „Volkskrankheit“ ist jedoch kaum verwunderlich: Das Sonnenhormon wird vom menschlichen Körper durch den Einfluss direkter Sonneneinstrahlung in der Haut gebildet. Allerdings ist die Vitamin-D-Produktion bei vielen Menschen stark gehemmt. Zum einen ist die UV-Strahlung in Deutschland besonders in den Herbst-, Winter- und Frühlingsmonaten sehr niedrig. Zum anderen verbringen die wenigsten Menschen regelmäßig ausreichend Zeit in der Sonne, um ihre Vitamin-D-Werte in einem gesunden Bereich zu halten. Aus diesem Grund haben wir bei VitaMoment Vitamin-D3-Kapseln mit hochwertigem Vitamin K2 in MK7-Form für dich entwickelt. Das Produkt ist zu 100 % rein und frei von Aromen, Zusatzstoffen und Farbstoffen. Du kannst die Dosierung der Kapseln flexibel auf deine persönlichen Bedürfnisse anpassen und somit deinen Vitamin-D-Spiegel in einen gesunden Bereich bringen. Egal, zu welcher Jahreszeit – du bist damit bestens versorgt.",
+      "has_only_default_variant": true,
+      "created_at": "2019-04-08T14:08:42Z",
+      "gift_card?": false,
+      "available": true,
+      "tags": [
+        "Ernährungsweise_Vegetarisch",
+        "Filter",
+        "Verträglichkeiten_Glutenfrei",
+        "Verträglichkeiten_Laktosefrei",
+        "Verträglichkeiten_Sojafrei"
+      ],
+      "price": 1697,
+      "price_min": 1697,
+      "price_max": 1697,
+      "price_varies": false,
+      "featured_image": {
+        "alt": "",
+        "src": "https://cdn.shopify.com/s/files/1/2236/3245/files/vitamin-d3-k2_default.png?v=1686900749",
+        "width": 1102,
+        "height": 2048
+      },
+      "variants": [
+        {
+          "id": "32737770766413",
+          "title": "Default Title",
+          "price": 1697,
+          "compare_at_price": null,
+          "sku": "458",
+          "available": true,
+          "inventory_quantity": 5957
+        }
+      ]
+    },
+    {
+      "id": "7586124857518",
+      "title": "30-Tage-Leber-Detox-Kur",
+      "handle": "leberkur",
+      "description": "Die Leber ist unsere Entgiftungszentrale: Tagtäglich befreit sie unseren Körper von schädlichen oder unerwünschten Stoffen. Sind die Belastungen durch Alkohol, Zucker oder Übergewicht zu groß, leidet die Leber still. Umso wichtiger, dass wir unsere Leber-Gesundheit stets im Blick behalten! Die 30-Tage-Leber-Detox-Kur ist eine einfache Möglichkeit, deine Ernährung mit wertvollen Pflanzenextrakten aus Mariendistel, Artischocke, Ingwer, Sonnenblumenlecithin und Löwenzahn zu ergänzen. Das enthaltene Cholin trägt zu einer normalen Leberfunktion und einem normalen Fettstoffwechsel bei.[health-claims] Zusätzlich beinhaltet die Leberkur ein umfangreiches Coaching-Programm. Du erhältst Zugang zu professionellen Video-Lektionen, in denen du lernst, wie deine Leber funktioniert und wie du sie langfristig gesund hältst. Das enthaltene Handbuch ist dein praktischer Begleiter für den Alltag, um zu erkennen, welche Gewohnheiten deiner Leber zu schaffen machen. Zusätzlich bekommst du zahlreiche leckere und leberfreundliche Rezepte an die Hand. Für die nötige Motivation sorgen unsere Begleit-E-Mails, eine starke Mitglieder-Community sowie unser Experten-Team, das dir bei Fragen stets zur Seite steht.",
+      "has_only_default_variant": true,
+      "created_at": "2022-03-19T13:06:54Z",
+      "gift_card?": false,
+      "available": true,
+      "tags": [],
+      "price": 4997,
+      "price_min": 4997,
+      "price_max": 4997,
+      "price_varies": false,
+      "featured_image": {
+        "alt": "",
+        "src": "https://cdn.shopify.com/s/files/1/2236/3245/products/leberkur_default.png?v=1686896471",
+        "width": 2048,
+        "height": 2007
+      },
+      "variants": [
+        {
+          "id": "42370097512622",
+          "title": "Default Title",
+          "price": 4997,
+          "compare_at_price": null,
+          "sku": "701-933",
+          "available": true,
+          "inventory_quantity": 17839
+        }
+      ]
+    },
+    {
+      "id": "6585262571694",
+      "title": "Leber-Komplex",
+      "handle": "leber-komplex",
+      "description": "Die Leber ist eines der wichtigsten Organe im menschlichen Körper. Sie ist Klär- und Kraftwerk in einem: Einerseits reguliert sie den Eiweiß-, Fett- und Zuckerstoffwechsel und speichert wichtige Nährstoffe. Andererseits agiert sie als „Entgiftungsorgan“, scheidet Substanzen über die Galle aus und steuert die Blutzusammensetzung. Leider kann die westliche, moderne Lebensweise (fettreiche Ernährung, Alkoholkonsum, viel Zucker, wenig Bewegung uvm.) der Leber schwer zu schaffen machen. Doch du kannst proaktiv entgegenwirken: Für eine gesunde Leber und Verdauung ist eine vielfältige Ernährung aus nährstoffreicher Kost, die deinen Körper ausreichend mit Vitaminen & Co. versorgt, von großer Wichtigkeit. Genau hierbei kann dir unser Leber-Komplex ein natürlicher und starker Partner sein. Das enthaltene Cholin leistet vor allem einen Beitrag zum Erhalt einer normalen Leberfunktion und trägt zu einem normalen Fettstoffwechsel bei.[health-claims] Die Verwendung von Mariendistel, Artischocke, Ingwer, Sonnenblumenlecithin und Löwenzahn hat eine lange und bewährte Tradition in der alternativen Ernährungskunde.",
+      "has_only_default_variant": true,
+      "created_at": "2021-03-24T15:28:50Z",
+      "gift_card?": false,
+      "available": true,
+      "tags": [
+        "Ernährungsweise_Vegan",
+        "Ernährungsweise_Vegetarisch",
+        "Verträglichkeiten_Glutenfrei",
+        "Verträglichkeiten_Laktosefrei",
+        "Verträglichkeiten_Sojafrei"
+      ],
+      "price": 2997,
+      "price_min": 2997,
+      "price_max": 2997,
+      "price_varies": false,
+      "featured_image": {
+        "alt": "",
+        "src": "https://cdn.shopify.com/s/files/1/2236/3245/files/leber-komplex_default.png?v=1699519908",
+        "width": 1100,
+        "height": 2048
+      },
+      "variants": [
+        {
+          "id": "43830922772747",
+          "title": "Default Title",
+          "price": 2997,
+          "compare_at_price": null,
+          "sku": "701",
+          "available": true,
+          "inventory_quantity": 1430
+        }
+      ]
+    },
+    {
+      "id": "4614847823949",
+      "title": "3-Phasen-Darmkur",
+      "handle": "3-phasen-darmkur",
+      "description": "Eine gesunde Darmflora gleicht einer blühenden Blumenwiese. Mit unserer 3-Phasen-Darmkur kannst du deine Blumenwiese zum Blühen bringen. Dabei handelt es sich um ein umfangreiches Coaching-Programm. Die Darm-Kur enthält folgende Helfer: Hochdosierte Milchsäurebakterien: Die Kapseln enthalten 12 hochwertige Milchsäurekulturen sowie sinnvoll kombinierte Wirkstoffe, die das Wachstum guter Darmbakterien fördern. Der Darm-Wellness-Drink ist eine ballaststoffreiche Kombination aus Apfelessig-Pulver, Akazienfaser, Leinsamenmehl, Flohsamenschalen, Zitronensaft-Pulver, Ingwer-Pulver und Acerola-Pulver. Die Vitamine B3 und B6 tragen zum Erhalt normaler Schleimhäute bei (Darmschleimhaut). Calcium fördert die normale Funktion von Verdauungsenzymen, während Vitamin C zu einem normalen Immunsystem beiträgt. Vitamin C trägt zu einem normalen Immunsystem bei.[health-claims] Neben diesen Produkten erhältst du informative Video-Lektionen, in denen du lernst, welche Lebensmittel und Verhaltensweisen deiner Bauchmitte guttun und auf welche du besser verzichten solltest. In über 100 einfachen und schnellen Rezepten findest du neue Inspiration für deine darmgesunde Ernährung. Die integrierte Einkaufsliste macht dir deine Speiseplanung kinderleicht. Für zusätzliche Motivation sorgt unsere geschlossene Community: Du bekommst Zugang zu einem Forum mit Gleichgesinnten, kannst dich jederzeit austauschen und erhältst Unterstützung von unserem starken Experten-Team.",
+      "has_only_default_variant": true,
+      "created_at": "2020-05-03T09:27:32Z",
+      "gift_card?": false,
+      "available": true,
+      "tags": [],
+      "price": 6997,
+      "price_min": 6997,
+      "price_max": 6997,
+      "price_varies": false,
+      "featured_image": {
+        "alt": "",
+        "src": "https://cdn.shopify.com/s/files/1/2236/3245/files/3-phasen-darmkur_default.png?v=1737030235",
+        "width": 2535,
+        "height": 2048
+      },
+      "variants": [
+        {
+          "id": "41463079895214",
+          "title": "Default Title",
+          "price": 6997,
+          "compare_at_price": null,
+          "sku": "453-499-700",
+          "available": true,
+          "inventory_quantity": 5678
+        }
+      ]
+    },
+    {
+      "id": "4356458119245",
+      "title": "Daily Flavour Geschmackspulver",
+      "handle": "daily-flavour",
+      "description": "Desserts & Zwischenmahlzeiten müssen sich nicht mehr fatal auf das Kalorienkonto auszahlen! Für alle Naschkatzen, die gerne abnehmen oder einfach auf eine schlanke Linie achten möchten, ist das kalorienarme Daily Flavour Geschmackspulver genau das Richtige. Wir haben 10 schmackhafte und vollmundige Geschmacksrichtungen entwickelt, welche bisher fast jedes Schleckermäulchen überzeugen konnten! Unsere Auswahl an sorgfältig kreierten Geschmackspulvern verhilft dir, dass deine Süßspeisen mit sehr wenig Kalorien einen intensiven Geschmack haben. Unser Daily Flavour zeichnet sich durch eine variable Einsatzfähigkeit und beste Rohstoffe aus. Mit knapp 12-14 Kalorien pro Portion ist unser Geschmackspulver ein schmackhafter und gesunder Helfer für deinen Alltag. Das Daily Flavour ist eine echte Alternative zu Haushaltszucker und erleichtert dir deine zucker- & kalorienreduzierte Ernährung deutlich! Mit der enthaltenen Laktase für eine handelsübliche Quarkmenge verbesserst du gleichzeitig deine Verdauung, wenn du Probleme mit der Laktoseverdauung hast. * Die Sorten Erdbeere, Schoko, Weiße Schoko, Apfel-Zimt und Käsekuchen enthalten leckere Schoko-, Keks- oder Fruchtstückchen.",
+      "has_only_default_variant": false,
+      "created_at": "2019-11-14T08:43:26Z",
+      "gift_card?": false,
+      "available": true,
+      "tags": [
+        "_wf_cus",
+        "Eigenschaften_Fettarm",
+        "Eigenschaften_Wenig Zucker",
+        "Ernährungsweise_Vegan",
+        "Ernährungsweise_Vegetarisch",
+        "Filter",
+        "Verträglichkeiten_Glutenfrei",
+        "Verträglichkeiten_Laktosefrei",
+        "Verträglichkeiten_Sojafrei"
+      ],
+      "price": 147,
+      "price_min": 147,
+      "price_max": 1697,
+      "price_varies": true,
+      "featured_image": {
+        "alt": "",
+        "src": "https://cdn.shopify.com/s/files/1/2236/3245/files/daily-flavour_winter-orange-220g_default.png?v=1730472103",
+        "width": 2048,
+        "height": 1925
+      },
+      "variants": [
+        {
+          "id": "46081970340107",
+          "title": "Winter-Orange / 220g",
+          "price": 1697,
+          "compare_at_price": null,
+          "sku": "520",
+          "available": true,
+          "inventory_quantity": 662
+        },
+        {
+          "id": "44586988142859",
+          "title": "Kaffee-Karamell / 220g",
+          "price": 1697,
+          "compare_at_price": null,
+          "sku": "527",
+          "available": true,
+          "inventory_quantity": 1114
+        },
+        {
+          "id": "45476195860747",
+          "title": "Kaffee-Karamell / 6g (Probe)",
+          "price": 147,
+          "compare_at_price": null,
+          "sku": "525",
+          "available": true,
+          "inventory_quantity": 5498
+        },
+        {
+          "id": "31716738367565",
+          "title": "Schoko / 220g",
+          "price": 1697,
+          "compare_at_price": null,
+          "sku": "502",
+          "available": false,
+          "inventory_quantity": -100
+        },
+        {
+          "id": "41352277491886",
+          "title": "Schoko / 6g (Probe)",
+          "price": 147,
+          "compare_at_price": null,
+          "sku": "515",
+          "available": true,
+          "inventory_quantity": 607
+        },
+        {
+          "id": "44336810230027",
+          "title": "Blaubeere / 220g",
+          "price": 1697,
+          "compare_at_price": null,
+          "sku": "522",
+          "available": true,
+          "inventory_quantity": 46
+        },
+        {
+          "id": "44336809476363",
+          "title": "Blaubeere / 6g (Probe)",
+          "price": 147,
+          "compare_at_price": null,
+          "sku": "523",
+          "available": true,
+          "inventory_quantity": 886
+        },
+        {
+          "id": "44336770973963",
+          "title": "Mango / 220g",
+          "price": 1697,
+          "compare_at_price": null,
+          "sku": "521",
+          "available": false,
+          "inventory_quantity": 0
+        },
+        {
+          "id": "44336775561483",
+          "title": "Mango / 6g (Probe)",
+          "price": 147,
+          "compare_at_price": null,
+          "sku": "524",
+          "available": false,
+          "inventory_quantity": -15
+        },
+        {
+          "id": "31716730142797",
+          "title": "Vanille-Sahne / 220g",
+          "price": 1697,
+          "compare_at_price": null,
+          "sku": "500",
+          "available": false,
+          "inventory_quantity": -4
+        },
+        {
+          "id": "41352274247854",
+          "title": "Vanille-Sahne / 6g (Probe)",
+          "price": 147,
+          "compare_at_price": null,
+          "sku": "513",
+          "available": true,
+          "inventory_quantity": 185
+        },
+        {
+          "id": "31274173857869",
+          "title": "Erdbeer / 220g",
+          "price": 1697,
+          "compare_at_price": null,
+          "sku": "442",
+          "available": true,
+          "inventory_quantity": 694
+        },
+        {
+          "id": "41352272052398",
+          "title": "Erdbeer / 6g (Probe)",
+          "price": 147,
+          "compare_at_price": null,
+          "sku": "512",
+          "available": true,
+          "inventory_quantity": 1244
+        },
+        {
+          "id": "31274173890637",
+          "title": "Apfel-Zimt / 220g",
+          "price": 1697,
+          "compare_at_price": null,
+          "sku": "441",
+          "available": true,
+          "inventory_quantity": 1179
+        },
+        {
+          "id": "41352270381230",
+          "title": "Apfel-Zimt / 6g (Probe)",
+          "price": 147,
+          "compare_at_price": null,
+          "sku": "511",
+          "available": true,
+          "inventory_quantity": 373
+        },
+        {
+          "id": "39261605232814",
+          "title": "Kirsche / 220g",
+          "price": 1697,
+          "compare_at_price": null,
+          "sku": "510",
+          "available": true,
+          "inventory_quantity": 343
+        },
+        {
+          "id": "41352282734766",
+          "title": "Kirsche / 6g (Probe)",
+          "price": 147,
+          "compare_at_price": null,
+          "sku": "518",
+          "available": true,
+          "inventory_quantity": 998
+        },
+        {
+          "id": "31716736532557",
+          "title": "Weiße Schoko / 220g",
+          "price": 1697,
+          "compare_at_price": null,
+          "sku": "501",
+          "available": true,
+          "inventory_quantity": 181
+        },
+        {
+          "id": "41352276017326",
+          "title": "Weiße Schoko / 6g (Probe)",
+          "price": 147,
+          "compare_at_price": null,
+          "sku": "514",
+          "available": true,
+          "inventory_quantity": 557
+        },
+        {
+          "id": "31716740202573",
+          "title": "Käsekuchen / 220g",
+          "price": 1697,
+          "compare_at_price": null,
+          "sku": "503",
+          "available": false,
+          "inventory_quantity": -92
+        },
+        {
+          "id": "41352279883950",
+          "title": "Käsekuchen / 6g (Probe)",
+          "price": 147,
+          "compare_at_price": null,
+          "sku": "516",
+          "available": false,
+          "inventory_quantity": -100
+        },
+        {
+          "id": "31716742430797",
+          "title": "Limonensorbet / 220g",
+          "price": 1697,
+          "compare_at_price": null,
+          "sku": "504",
+          "available": true,
+          "inventory_quantity": 829
+        },
+        {
+          "id": "41352281227438",
+          "title": "Limonensorbet / 6g (Probe)",
+          "price": 147,
+          "compare_at_price": null,
+          "sku": "517",
+          "available": true,
+          "inventory_quantity": 835
+        }
+      ]
+    },
+    {
+      "id": "8015060795659",
+      "title": "Meno-Balance-Kur",
+      "handle": "meno-balance-kur",
+      "description": "Die Wechseljahre müssen kein jahrelanges Drama sein. Es gibt viele Tipps, die effektiv dabei helfen können, aktiv und mit einer guten Stimmung durch die Wechseljahre zu gehen. Unsere Meno-Balance-Kur ist ein ganzheitliches Coaching-Programm. Wir wollen dich damit bestmöglich auf emotionaler und sachlicher Ebene abholen und dir das Wissen und Handwerkszeug vermitteln, mit dem du entspannter durch die Wechseljahre gehen kannst. Der Meno-Komplex unterstützt dich mit einer Kombination aus ausgewählten Pflanzen-Extrakten, Spurenelementen und Vitaminen. Im Coaching eignest du dir wertvolles Wissen rund um die Wechseljahre an und lernst neue gesundheitsfördernde Gewohnheiten.",
+      "has_only_default_variant": true,
+      "created_at": "2022-10-28T13:20:03Z",
+      "gift_card?": false,
+      "available": true,
+      "tags": [],
+      "price": 4997,
+      "price_min": 4997,
+      "price_max": 4997,
+      "price_varies": false,
+      "featured_image": {
+        "alt": "",
+        "src": "https://cdn.shopify.com/s/files/1/2236/3245/products/meno-balance-kur_default.png?v=1686896912",
+        "width": 2048,
+        "height": 2029
+      },
+      "variants": [
+        {
+          "id": "43649566212363",
+          "title": "Default Title",
+          "price": 4997,
+          "compare_at_price": null,
+          "sku": "702-948",
+          "available": true,
+          "inventory_quantity": 5658
+        }
+      ]
+    },
+    {
+      "id": "4824687902797",
+      "title": "Bitterstoff-Tropfen",
+      "handle": "bitterstoff-tropfen",
+      "description": "Bitterstoffe als Geschenk der NaturEin altertümliches Sprichwort besagt: „Was bitter im Mund, ist dem Magen gesund“. Somit wurde herber Kräuterschnaps schon vor Jahren durch die enthaltenen Bitterstoffe zu einem Alltagsbegleiter unserer Vorfahren. Die Natur hat den Geschmack „bitter“ erschaffen und seit Jahrtausenden finden wir in vielen Pflanzen Bitterstoffe. Unsere Vorfahren verzehrten früher große Portionen bitterstoffhaltiger Kräuter & Co. Im Vergleich dazu bringen wir es als westlicher Durchschnittskonsument heutzutage nur noch auf eine kleinere Tagesration an Bitterstoffen. Der Grund? Der Bitterstoffgehalt von Gemüse und Salaten wurde über die Jahre durch die Züchtung reduziert, schließlich mag die Spezies Mensch es oft eher süß als bitter. In welchen Lebensmitteln stecken Bitterstoffe?Wenn du gezielt danach suchst, findest du nach wie vor auf Wochenmärkten oder im Bioladen eine vielfältige Auswahl an bitteren Wildkräutern. Auch Lebensmittel wie Chicorée, Artischocken oder Rucola enthalten Bitterstoffe. Als praktische Abkürzung kannst du aber auch konzentrierte Bitterstoff-Tropfen für dich nutzen. VitaMoment Bitterstoff-TropfenWir haben für diesen Zweck ein alkoholfreies Bitterstoff-Konzentrat aus zertifizierten Zutaten entwickelt. Unsere Bitterstoff-Tropfen enthalten Kräuterextrakte aus Galgant, Brennnessel, Wermut, Bitterorange, Enzian, Kurkuma, Lavendel und Kamille. Somit kannst du Bitterstoffe in konzentrierter Kombination aufnehmen und ersparst dir zeitgleich lange Suchaktionen im Supermarkt und zu viel Alkohol aus Kräuterschnaps.",
+      "has_only_default_variant": true,
+      "created_at": "2020-09-22T12:22:00Z",
+      "gift_card?": false,
+      "available": true,
+      "tags": [],
+      "price": 1797,
+      "price_min": 1797,
+      "price_max": 1797,
+      "price_varies": false,
+      "featured_image": {
+        "alt": "",
+        "src": "https://cdn.shopify.com/s/files/1/2236/3245/files/bitterstoff-tropfen_default_3724d35c-cdc6-498a-bda5-e48555b9806e.png?v=1686901128",
+        "width": 627,
+        "height": 2048
+      },
+      "variants": [
+        {
+          "id": "43531199152395",
+          "title": "Default Title",
+          "price": 1797,
+          "compare_at_price": null,
+          "sku": "488",
+          "available": true,
+          "inventory_quantity": 7438
+        }
+      ]
+    },
+    {
+      "id": "1422828240973",
+      "title": "Zink-Histidin",
+      "handle": "zink-histidin",
+      "description": "Zink ist ein essentielles Spurenelement, das eine entscheidende Rolle in vielen Stoffwechselprozessen unseres Körpers spielt. Eine ausreichende Zinkversorgung ist u.a. wichtig für die Stärkung des Immunsystems, eine effektive Wundheilung sowie für gesunde Haut, schönes Haar und starke Nägel. [health-claims] Zink und Kupfer sind zwei Nährstoffe, welche im menschlichen Körper in einem gewissen Mengenverhältnis stehen sollten, damit der Organismus gut funktionieren kann. Deshalb setzen wir bei VitaMoment auf einen hochwertigen Zink-Kupfer-Komplex. Das in den Zink-Kapseln enthaltene Kupfer ist notwendig für die Herstellung der Pigmente der Haut, Haare und roten Blutkörperchen und spielt eine wichtige Rolle für das Bindegewebe und die Nervenfasern.",
+      "has_only_default_variant": true,
+      "created_at": "2018-08-30T13:20:31Z",
+      "gift_card?": false,
+      "available": true,
+      "tags": [
+        "Ernährungsweise_Vegan",
+        "Ernährungsweise_Vegetarisch",
+        "Filter",
+        "Verträglichkeiten_Glutenfrei",
+        "Verträglichkeiten_Laktosefrei",
+        "Verträglichkeiten_Sojafrei"
+      ],
+      "price": 1697,
+      "price_min": 1697,
+      "price_max": 1697,
+      "price_varies": false,
+      "featured_image": {
+        "alt": "",
+        "src": "https://cdn.shopify.com/s/files/1/2236/3245/files/zink_default.png?v=1686901220",
+        "width": 1102,
+        "height": 2048
+      },
+      "variants": [
+        {
+          "id": "32737798815821",
+          "title": "Default Title",
+          "price": 1697,
+          "compare_at_price": null,
+          "sku": "456",
+          "available": true,
+          "inventory_quantity": 10992
+        }
+      ]
+    },
+    {
+      "id": "4443801813069",
+      "title": "Vitamin-B-Komplex",
+      "handle": "vitamin-b-komplex",
+      "description": "B-Vitamine erfüllen zahlreiche wichtige Funktionen innerhalb unterschiedlicher Stoffwechselprozesse und spielen somit eine maßgebliche Rolle für das körperliche Wohlbefinden. Das Nervensystem, die Leber, der Energiestoffwechsel, Haut und Haare, die Schleimhäute und die kognitiven Funktionen benötigen B-Vitamine [health-claims]. Unser Vitamin-B-Komplex enthält alle acht B-Vitamine, da diese nur als Team bestmöglich agieren können und somit eine starke Grundversorgung garantieren. Wird nur eines der acht Vitamine auf Dauer zu wenig aufgenommen, kann der Mangel erhebliche Folgen für deine Gesundheit haben. Wir setzen in unserem Komplex auf aktive und hoch bioverfügbare Verbindungen, um eine ideale Aufnahme zu garantieren. Als spezifische Aufnahme-Booster nutzen wir außerdem drei Vitamin-ähnliche Wirkstoffe namens Inositol, Para-Aminobenzoesäure (PABA) und Cholin. Diese verhelfen dir zu einem vitalen Vitamin-B-Stoffwechsel und unterstützen eine bestmögliche Aufnahme der acht B-Vitamine: Vitamin B1, Vitamin B2, Vitamin B3, Vitamin B5, Vitamin B6, Vitamin B7, Vitamin B9 und Vitamin B12. Durch die tägliche Einnahme einer Kapsel des Vitamin-B-Komplex sorgst du für ein optimales B-Vitamin-Profil und vermeidest einen Vitamin-B-Mangel.",
+      "has_only_default_variant": true,
+      "created_at": "2019-12-30T10:41:45Z",
+      "gift_card?": false,
+      "available": true,
+      "tags": [
+        "Ernährungsweise_Vegan",
+        "Ernährungsweise_Vegetarisch",
+        "Filter",
+        "Verträglichkeiten_Glutenfrei",
+        "Verträglichkeiten_Laktosefrei",
+        "Verträglichkeiten_Sojafrei"
+      ],
+      "price": 1897,
+      "price_min": 1897,
+      "price_max": 1897,
+      "price_varies": false,
+      "featured_image": {
+        "alt": "",
+        "src": "https://cdn.shopify.com/s/files/1/2236/3245/files/vitamin-b-komplex_default.png?v=1686900566",
+        "width": 1103,
+        "height": 2048
+      },
+      "variants": [
+        {
+          "id": "32737925857357",
+          "title": "Default Title",
+          "price": 1897,
+          "compare_at_price": null,
+          "sku": "485",
+          "available": true,
+          "inventory_quantity": 2198
+        }
+      ]
+    },
+    {
+      "id": "3638434168909",
+      "title": "Vitamin C",
+      "handle": "vitamin-c",
+      "description": "Das wasserlösliche Vitamin C kann vom menschlichen Körper weder eigenständig gebildet noch gespeichert werden. Du musst es daher über deine Ernährung zuführen. Besonders reich an Vitamin C sind Gemüse und Obst (insbesondere Zitrusfrüchte). Dabei ist der Vitamin-C-Gehalt in frischen Lebensmitteln stark abhängig von der Lagerung und Verarbeitung. Zusätzlich ist Vitamin C sehr empfindlich gegenüber Hitze, Sauerstoff und Licht. Aus diesen Gründen kann es schwierig sein, ausreichend Vitamin C aufzunehmen. Laut [reference text=\"Nationaler Verzehrsstudie II\" title=\"Max-Rubner-Insitut (2008): Nationale Verzehrsstudie II\" source=\"https://www.mri.bund.de/de/institute/ernaehrungsverhalten/forschungsprojekte/nvsii/\" ] erreichen 32 % der Männer sowie 29 % der Frauen die empfohlene Zufuhr von Vitamin C nicht. Um dir im Alltag eine optimale Versorgung mit Vitamin C zu garantieren, haben wir die Vitamin-C-Kapseln entwickelt. Das Nahrungsergänzungsmittel zeichnet sich besonders dadurch aus, dass es sich um ein hochdosiertes und gepuffertes Vitamin C handelt. Dieses hebt sich durch eine besonders gute Verträglichkeit hervor. Zudem ist unser Vitamin C an natürlichen Hagebuttenextrakt gebunden und wird daher sehr gut vom Körper aufgenommen.",
+      "has_only_default_variant": true,
+      "created_at": "2019-07-08T07:30:07Z",
+      "gift_card?": false,
+      "available": true,
+      "tags": [
+        "Ernährungsweise_Vegan",
+        "Ernährungsweise_Vegetarisch",
+        "Filter",
+        "Verträglichkeiten_Glutenfrei",
+        "Verträglichkeiten_Laktosefrei",
+        "Verträglichkeiten_Sojafrei"
+      ],
+      "price": 1297,
+      "price_min": 1297,
+      "price_max": 1297,
+      "price_varies": false,
+      "featured_image": {
+        "alt": "",
+        "src": "https://cdn.shopify.com/s/files/1/2236/3245/files/vitamin-c_default.png?v=1686900679",
+        "width": 1102,
+        "height": 2048
+      },
+      "variants": [
+        {
+          "id": "32737868218445",
+          "title": "Default Title",
+          "price": 1297,
+          "compare_at_price": null,
+          "sku": "482",
+          "available": true,
+          "inventory_quantity": 1116
+        }
+      ]
+    },
+    {
+      "id": "4791564730445",
+      "title": "Daily Protein Riegel",
+      "handle": "daily-protein-riegel",
+      "description": "Gute Nährwerte müssen nicht zulasten des Geschmacks gehen – mit viel Herzblut haben wir den perfekten Protein-Schokoriegel für deinen Süßhunger entwickelt. Auf 50 g Riegel erwarten dich ganze 15 g Protein. Zudem hast du die Wahl zwischen 2 köstlichen Sorten: Saftiger Salted-Caramel-Brownie-Geschmack oder knuspriger Schoko-Erdnuss-Geschmack. Die vierschichtige Proteinbombe versorgt dich mit einer geballten Ladung Eiweiß, lässt geschmacklich keine Wünsche übrig und verzichtet dabei vollkommen auf Zusatzzucker oder fragwürdige Zusätze. Den VitaMoment Daily Protein Riegel bekommst du als Einzelriegel oder in einer praktischen 12er-Box geliefert, damit du direkt den idealen Vorrat für dein tägliches Nasch-Erlebnis parat hast. Ob als schneller Snack zwischendurch oder als figur-freundliches Dessert am Abend – den Daily Protein Riegel kannst du auf unterschiedlichste Weise in deinen Alltag integrieren.",
+      "has_only_default_variant": false,
+      "created_at": "2020-08-23T12:56:49Z",
+      "gift_card?": false,
+      "available": true,
+      "tags": [
+        "_wf_cus",
+        "Eigenschaften_Eiweißreich",
+        "Eigenschaften_Wenig Zucker",
+        "Ernährungsweise_Vegetarisch",
+        "Filter",
+        "Verträglichkeiten_Sojafrei"
+      ],
+      "price": 269,
+      "price_min": 269,
+      "price_max": 2959,
+      "price_varies": true,
+      "featured_image": {
+        "alt": "",
+        "src": "https://cdn.shopify.com/s/files/1/2236/3245/files/daily-protein-riegel_schoko-erdnuss-12er-box_default.png?v=1710632419",
+        "width": 2000,
+        "height": 2138
+      },
+      "variants": [
+        {
+          "id": "46139530477835",
+          "title": "Schoko-Lebkuchen / 12er Box",
+          "price": 2959,
+          "compare_at_price": 3228,
+          "sku": "599",
+          "available": true,
+          "inventory_quantity": 359
+        },
+        {
+          "id": "46139530510603",
+          "title": "Schoko-Lebkuchen / Einzeln (50g)",
+          "price": 269,
+          "compare_at_price": 0,
+          "sku": "598",
+          "available": true,
+          "inventory_quantity": 157
+        },
+        {
+          "id": "42343397851310",
+          "title": "Schoko-Erdnuss / 12er Box",
+          "price": 2959,
+          "compare_at_price": 3228,
+          "sku": "507",
+          "available": true,
+          "inventory_quantity": 480
+        },
+        {
+          "id": "42343397884078",
+          "title": "Schoko-Erdnuss / Einzeln (50g)",
+          "price": 269,
+          "compare_at_price": null,
+          "sku": "509",
+          "available": true,
+          "inventory_quantity": 674
+        },
+        {
+          "id": "38025840459950",
+          "title": "Salted-Caramel-Brownie / 12er Box",
+          "price": 2959,
+          "compare_at_price": 3228,
+          "sku": "561",
+          "available": false,
+          "inventory_quantity": -3
+        },
+        {
+          "id": "38025840492718",
+          "title": "Salted-Caramel-Brownie / Einzeln (50g)",
+          "price": 269,
+          "compare_at_price": null,
+          "sku": "563",
+          "available": false,
+          "inventory_quantity": 0
+        }
+      ]
+    },
+    {
+      "id": "7962530644235",
+      "title": "Gute Nacht Spray",
+      "handle": "gute-nacht-spray",
+      "description": "[reference text=\"25 %\" title=\"RKI: Heft 27 Schlafstörungen\" source=\"https://www.dgsm.de/fileadmin/dgsm/leitlinien/rki_schlafstoerung.pdf\" ] der Menschen leiden hierzulande unter schweren Schlafproblemen. Wenn du nachts stundenlang wach im Bett liegst, deine Gedanken im Kopf kreisen und du einfach nicht einschlafen kannst, treibt dich das zur Verzweiflung. Es gibt viele Gründe für Einschlafprobleme: Hoher beruflicher oder privater Stress, Mangel an wichtigen Nährstoffen oder anhaltende Sorgen im Alltag können mögliche Ursachen sein. Unser Melatonin-Spray mit Pflanzenextrakten kann deine Einschlafzeit auf natürliche Weise verkürzen. Es enthält gut erforschte Komponenten wie Melatonin, Passionsblumenextrakt, Ashwagandha-Extrakt, Zitronenmelissen-Extrakt, Baldrian-Extrakt sowie Vitamin B1 und Vitamin B6. Mit dieser perfekten Mischung wirst du sanft in den Schlaf begleitet. Bereits zwei Sprühstöße in den Mund reichen dafür aus. Nach rund 30 Minuten tritt die Wirkung ein. Da das Gute Nacht Spray zuckerfrei ist, kannst du es auch nach dem Zähneputzen verwenden. Wichtig: Unser Einschlaf-Spray mit Melatonin hat keinen Gewöhnungseffekt wie Schlafmittel. Die Inhaltsstoffe machen nicht abhängig. Ein weiterer Vorteil gegenüber Medikamenten ist, dass unser Gute Nacht Spray das Einschlafen nicht erzwingt. Es wirkt auf natürliche Weise schlafanregend.",
+      "has_only_default_variant": true,
+      "created_at": "2022-05-16T13:01:08Z",
+      "gift_card?": false,
+      "available": false,
+      "tags": [],
+      "price": 2997,
+      "price_min": 2997,
+      "price_max": 2997,
+      "price_varies": false,
+      "featured_image": {
+        "alt": "",
+        "src": "https://cdn.shopify.com/s/files/1/2236/3245/files/gute-nacht-spray_default.png?v=1686902123",
+        "width": 616,
+        "height": 2048
+      },
+      "variants": [
+        {
+          "id": "43503378825483",
+          "title": "Default Title",
+          "price": 2997,
+          "compare_at_price": null,
+          "sku": "705",
+          "available": false,
+          "inventory_quantity": -5647
+        }
+      ]
+    },
+    {
+      "id": "6585265356974",
+      "title": "Bewegungs-Komplex",
+      "handle": "bewegungs-komplex",
+      "description": "Aktiv und in Bewegung sein ist gut für dein Herz und deine Muskeln, aber es bedeutet auch viel Arbeit für deine Knochen und Gelenke. Bei allem, was du machst, müssen sie Druck, Zug- und Rotationskräfte ausgleichen, damit du dich in alle Richtungen drehen und strecken kannst. Über- und Fehlbelastungen, zunehmendes Alter, angeborene Fehlstellungen, Verletzungen sowie übermäßige und auch zu wenig körperliche Aktivität können den Gelenken zusetzen. Arthrose ist die weltweit [reference text=\"häufigste Gelenkerkrankung\" title=\"Arthrose\" source=\"https://www.rki.de/DE/Content/GesundAZ/A/Arthrose/Arthrose_inhalt.html \"]. Dabei nehmen der Gelenkknorpel, aber auch die angrenzenden Knochen, Muskeln und Bänder Schaden.",
+      "has_only_default_variant": true,
+      "created_at": "2021-03-24T15:30:01Z",
+      "gift_card?": false,
+      "available": true,
+      "tags": [
+        "Ernährungsweise_Vegan",
+        "Ernährungsweise_Vegetarisch",
+        "Verträglichkeiten_Glutenfrei",
+        "Verträglichkeiten_Laktosefrei",
+        "Verträglichkeiten_Sojafrei"
+      ],
+      "price": 2997,
+      "price_min": 2997,
+      "price_max": 2997,
+      "price_varies": false,
+      "featured_image": {
+        "alt": "",
+        "src": "https://cdn.shopify.com/s/files/1/2236/3245/files/bewegungs-komplex_60-kapseln_default.png?v=1704290062",
+        "width": 1100,
+        "height": 2048
+      },
+      "variants": [
+        {
+          "id": "43765229912331",
+          "title": "Default Title",
+          "price": 2997,
+          "compare_at_price": null,
+          "sku": "711",
+          "available": true,
+          "inventory_quantity": 13261
+        }
+      ]
+    },
+    {
+      "id": "6753953841326",
+      "title": "Daily Protein Shake Vegan",
+      "handle": "daily-protein-vegan",
+      "description": "Unser Daily Protein Shake Vegan beinhaltet keine tierischen Inhaltsstoffe, enthält eine geballte Ladung vielfältiges pflanzliches Eiweiß und schmeckt so cremig lecker wie ein klassischer Milchshake. Der Daily Protein Shake Vegan ist durch die zucker- und fettarme Rezeptur absolut figurfreundlich und die ideale Unterstützung, um sich proteinreicher zu versorgen. Wir verwenden in unserem Daily Protein Vegan keinerlei tierische Rohstoffquellen wie Milch oder Eier und nutzen stattdessen die Power der Pflanzenkraft. Um eine optimale Proteinkomposition zu gewährleisten und somit die gesamte Bandbrandbreite der wichtigen Aminosäuren abzudecken, haben wir uns für eine innovative Kombination aus Ackerbohnen-, Erbsen- und Kürbiskernprotein entschieden. Diese pflanzlichen Proteinquellen überzeugen mit hohen Proteingehalten, einem sehr vielfältigen Aminosäurenprofil und hoher biologischer Wertigkeit. Der milde, leicht nussige Geschmack und die ideale Löslichkeit machen unseren veganen Daily Protein Shake zum perfekten Begleiter für deinen Alltag. Er ist vielseitig einsetzbar und steht dir stets als köstlicher Proteinlieferant zur Seite. Wir lieben ihn im Frühstücksmüsli, im Joghurt oder einfach als schnellen Shake gegen den kleinen Hunger. Für maximale Abwechslung hast du bei uns die Wahl zwischen sieben leckeren Geschmacksrichtungen und einem neutralen Proteinpulver.",
+      "has_only_default_variant": false,
+      "created_at": "2021-05-24T12:04:16Z",
+      "gift_card?": false,
+      "available": true,
+      "tags": [
+        "_wf_cus",
+        "Eigenschaften_Eiweißreich",
+        "Eigenschaften_Fettarm",
+        "Eigenschaften_Wenig Zucker",
+        "Ernährungsweise_Vegan",
+        "Ernährungsweise_Vegetarisch",
+        "Filter",
+        "Free_Shaker",
+        "Verträglichkeiten_Glutenfrei",
+        "Verträglichkeiten_Laktosefrei",
+        "Verträglichkeiten_Sojafrei"
+      ],
+      "price": 249,
+      "price_min": 249,
+      "price_max": 2697,
+      "price_varies": true,
+      "featured_image": {
+        "alt": "",
+        "src": "https://cdn.shopify.com/s/files/1/2236/3245/files/daily-protein-vegan_vanille-500g_default.png?v=1701960023",
+        "width": 1096,
+        "height": 2048
+      },
+      "variants": [
+        {
+          "id": "46082138472715",
+          "title": "Vanillekipferl / 500g",
+          "price": 2697,
+          "compare_at_price": null,
+          "sku": "592",
+          "available": true,
+          "inventory_quantity": 1727
+        },
+        {
+          "id": "39865952370862",
+          "title": "Vanille / 500g",
+          "price": 2697,
+          "compare_at_price": null,
+          "sku": "476",
+          "available": true,
+          "inventory_quantity": 2103
+        },
+        {
+          "id": "40445040722094",
+          "title": "Vanille / 30g (Probe)",
+          "price": 249,
+          "compare_at_price": null,
+          "sku": "269",
+          "available": false,
+          "inventory_quantity": -100
+        },
+        {
+          "id": "43655410090251",
+          "title": "Kaffee-Karamell / 500g",
+          "price": 2697,
+          "compare_at_price": null,
+          "sku": "571",
+          "available": true,
+          "inventory_quantity": 2739
+        },
+        {
+          "id": "43655411466507",
+          "title": "Kaffee-Karamell / 30g (Probe)",
+          "price": 249,
+          "compare_at_price": null,
+          "sku": "285",
+          "available": false,
+          "inventory_quantity": -3
+        },
+        {
+          "id": "43655410549003",
+          "title": "Schoko-Haselnuss / 500g",
+          "price": 2697,
+          "compare_at_price": null,
+          "sku": "570",
+          "available": true,
+          "inventory_quantity": 2733
+        },
+        {
+          "id": "43655412089099",
+          "title": "Schoko-Haselnuss / 30g (Probe)",
+          "price": 249,
+          "compare_at_price": null,
+          "sku": "286",
+          "available": false,
+          "inventory_quantity": -509
+        },
+        {
+          "id": "39865952338094",
+          "title": "Schoko-Keks / 500g",
+          "price": 2697,
+          "compare_at_price": null,
+          "sku": "477",
+          "available": true,
+          "inventory_quantity": 1921
+        },
+        {
+          "id": "40445041967278",
+          "title": "Schoko-Keks / 30g (Probe)",
+          "price": 249,
+          "compare_at_price": null,
+          "sku": "270",
+          "available": false,
+          "inventory_quantity": -14
+        },
+        {
+          "id": "39865952403630",
+          "title": "Banane / 500g",
+          "price": 2697,
+          "compare_at_price": null,
+          "sku": "478",
+          "available": true,
+          "inventory_quantity": 2869
+        },
+        {
+          "id": "40445045964974",
+          "title": "Banane / 30g (Probe)",
+          "price": 249,
+          "compare_at_price": null,
+          "sku": "272",
+          "available": false,
+          "inventory_quantity": -1
+        },
+        {
+          "id": "39865952436398",
+          "title": "Pfirsich / 500g",
+          "price": 2697,
+          "compare_at_price": null,
+          "sku": "479",
+          "available": true,
+          "inventory_quantity": 2880
+        },
+        {
+          "id": "40445062414510",
+          "title": "Pfirsich / 30g (Probe)",
+          "price": 249,
+          "compare_at_price": null,
+          "sku": "271",
+          "available": false,
+          "inventory_quantity": 0
+        },
+        {
+          "id": "42775534141614",
+          "title": "Neutral / 500g",
+          "price": 2697,
+          "compare_at_price": null,
+          "sku": "568",
+          "available": true,
+          "inventory_quantity": 2465
+        },
+        {
+          "id": "43560297660683",
+          "title": "Mango-Maracuja / 500g",
+          "price": 2697,
+          "compare_at_price": null,
+          "sku": "569",
+          "available": true,
+          "inventory_quantity": 2849
+        },
+        {
+          "id": "43582439063819",
+          "title": "Mango-Maracuja / 30g (Probe)",
+          "price": 249,
+          "compare_at_price": null,
+          "sku": "284",
+          "available": false,
+          "inventory_quantity": -101
+        }
+      ]
+    },
+    {
+      "id": "3546519961677",
+      "title": "Curcumin",
+      "handle": "curcumin",
+      "description": "Die indische Gelbwurzel (Curcuma longa L.) gehört zu den Ingwergewächsen und findet ihren Ursprung in Asien. Neben einer vielfältigen Anwendung in der Küche wird die Kurkumawurzel aufgrund seiner positiven Eigenschaften in der traditionellen chinesischen Medizin (TCM) und in der indischen Gesundheitskunde (Ayurveda) als Heilpflanze eingesetzt. Durch seine [reference text=\"antioxidative Wirkung\" title=\"Sahebkar et al. (2015): Effect of curcuminoids on oxidative stress: A systematic review and meta-analysis of randomized controlled trials\" source=\"https://www.sciencedirect.com/science/article/pii/S1756464615000092?via%3Dihub\" ] bewährt sich die Pflanze bereits seit Jahrtausenden als starker Gesundheitshelfer. Die intensive gelb-orange Farbe und die heilende Wirkung verdankt die Kurkumawurzel den enthaltenen sekundären Pflanzenstoffen namens Curcuminoiden. Unter ihnen ist der wichtigste Inhaltsstoff: das Curcumin. Dieses ist für die Wirkungskraft der Kurkuma-Pflanze zuständig. Bekannte Gewürzmischungen (z.B. Kurkuma, Curry) aus dem Supermarkt, enthalten nur circa 2 bis 6 % Curcumin. Entsprechend ist es schwierig, über einfaches Wurzelpulver ausreichend Curcumin aufzunehmen und somit wirklich von den positiven Wirkungen der Wurzel zu profitieren. Kurkuma als Gewürz im Essen reicht daher leider nicht aus. Im Extrakt des Kurkuma-Pulvers hingegen liegt der Wirkstoff Curcumin in äußerst konzentrierter Form vor. Deshalb haben wir uns bei VitaMoment für einen hoch dosierten & zertifizierten Extrakt mit hohem Curcumin-Anteil entschieden. Außerdem ist unser Nahrungsergänzungsmittel zu 100 % frei von Zusatzstoffen.",
+      "has_only_default_variant": true,
+      "created_at": "2019-05-09T14:59:35Z",
+      "gift_card?": false,
+      "available": true,
+      "tags": [
+        "Ernährungsweise_Vegan",
+        "Ernährungsweise_Vegetarisch",
+        "Filter",
+        "Verträglichkeiten_Glutenfrei",
+        "Verträglichkeiten_Laktosefrei",
+        "Verträglichkeiten_Sojafrei"
+      ],
+      "price": 2997,
+      "price_min": 2997,
+      "price_max": 2997,
+      "price_varies": false,
+      "featured_image": {
+        "alt": "",
+        "src": "https://cdn.shopify.com/s/files/1/2236/3245/files/curcumin_default.png?v=1686899702",
+        "width": 1102,
+        "height": 2048
+      },
+      "variants": [
+        {
+          "id": "32737809465421",
+          "title": "Default Title",
+          "price": 2997,
+          "compare_at_price": null,
+          "sku": "459",
+          "available": true,
+          "inventory_quantity": 1546
+        }
+      ]
+    }
+  ]
+}
