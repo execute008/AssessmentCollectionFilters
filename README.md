@@ -1,4 +1,12 @@
-# Assessment Collection Filters
+# Usage
+
+Damit fetch nicht in einen CORS rennt ausführen mit einem http server wie dem von python
+
+```
+python3 -m http.server
+```
+
+Assessment Collection Filters
 
 Wir freuen uns, dass du diese kurze Testaufgabe lösen möchtest. Das Ziel ist es, herauszufinden, ob unsere Vorstellungen der Arbeitsweise und der Fähigkeiten für die Web Developer Rolle übereinstimmen und eine Zusammenarbeit das Richtige für uns beide ist.
 
@@ -13,11 +21,13 @@ In unserem Shop unter [vitamoment.de](https://vitamoment.de) soll eine neue Filt
 Aktuell existiert bereits eine simple Filterung nach Produkteigenschaften in unserem Shop. Die Filter sollen allerdings einmal komplett neu gedacht werden. Du hast deshalb in der Umsetzung alle Freiheiten. Es ist zum Beispiel auch dir überlassen, ob du die Filterauswahl in einer Sidebar, einem Modal, einem Popover, einem Collapsible etc. darstellst.
 
 Folgende Filtermöglichkeiten soll es geben:
+
 - Preis (0-20€, >20€-30€, >30€-40€, >40€)
 - Verfügbarkeit (Zeige nur verfügbare Produkte)
 - Einnahmeform (Kapseln, Pulver, Tropfen, Spray, Sonstiges)
 
 Zusätzliche Anforderungen:
+
 - Die Optionen für Preis und Verfügbarkeit sollen auch angezeigt werden, wenn in der Collection keine entsprechenden Produkte vorhanden sind. Diese Optionen sollen dann nicht auswählbar sein.
 - Bei der Einnahmeform sollen nur die Optionen angezeigt werden, für die es auch Produkte in der aktuellen Collection gibt.
 
@@ -39,6 +49,7 @@ In Klammern findest du Empfehlungen für die Verteilung des Aufwands auf die ein
 4. Implementiere das Interface und die Funktionalität der Collection Filter mit HTML, CSS und JavaScript. Hierbei dürfen Daten explizit in das erstellte HTML hardgecodet werden. In der Realität würde man das HTML natürlich Server-seitig aus den Daten generieren, aus Komplexitätsgründen nutzen wir hier nur Client-seitigen Code. Das CSS soll sich so wie das Wireframe auf das grobe Layout beschränken. (90-135min)
 
 ## Hilfreiche Links
+
 - [Shopify Produkt-Daten in Liquid](https://shopify.dev/docs/api/liquid/objects/product)
 - [Shopify Collection-Daten in Liquid](https://shopify.dev/docs/api/liquid/objects/collection)
 - [Beispiel Collection in unserem Shop](https://vitamoment.de/collections/bestseller)

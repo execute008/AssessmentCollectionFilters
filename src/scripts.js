@@ -49,7 +49,9 @@ function getPriceRange(product) {
   return "40plus";
 }
 
-// Define available intake forms and their detection patterns
+/* INTAKE FILTER LOGIK */
+
+//Hier sollte man in Realität Werte von Shopify verwenden 
 const INTAKE_FORMS = [
   {
     id: "Kapseln",
@@ -77,6 +79,7 @@ function getIntakeForm(product) {
   const title = product.title.toLowerCase();
   const description = product.description.toLowerCase();
 
+  //und vorallem nicht auf filterung durch title und description zurückgreifen vielleicht über tags oder metafields
   for (const form of INTAKE_FORMS) {
     if (
       form.patterns.some(
